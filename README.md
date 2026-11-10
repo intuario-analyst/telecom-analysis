@@ -138,6 +138,3 @@ pip install pandas numpy seaborn matplotlib jupyter
 ## 👤 Autor
 **Edgar Arturo Acosta Arenas**
 -Linkedin [https://www.linkedin.com/in/edgaracostarenas/]
-
-**[Tu nombre]** – Proyecto del bootcamp de Análisis de Datos
-[LinkedIn / GitHub]
